@@ -289,7 +289,7 @@ This software and it's authors are not associated with any public transit agency
 [kievm]: http://www.metro.kyiv.ua/
 [kirov]: http://www.mo-kirov.ru/gorozhanam/transport/
 [kmt]: https://en.wikipedia.org/wiki/Kereta_Commuter_Indonesia
-[komuterlink]: http://www.ktmb.com.my/KomuterLink.html
+[komuterlink]: http://www.ktmb.com.my/
 [krasnodar]: https://t-karta.ru/Cards/Krasnodar
 [laxtap]: https://www.taptogo.net/
 [leap]: https://www.leapcard.ie/
